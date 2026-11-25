@@ -68,7 +68,7 @@
 "Zainstaluj / zaktualizuj" = "Install / update";
 "Usuń" = "Remove";
 "Zamknij" = "Close";
-"Wersja 1.0 · Swift + Metal" = "Version 1.0 · Swift + Metal";
+"Wersja 1.0.1 · Swift + Metal" = "Version 1.0.1 · Swift + Metal";
 "Nadpisuje wolne miejsce i niszczy pliki bez możliwości odzyskania. Bez dostępu do sieci. Na SSD i APFS pełną ochronę daje dopiero FileVault." = "Overwrites free space and destroys files beyond recovery. No network access. On SSD and APFS, full protection only comes with FileVault.";
 "Ochrona danych na SSD" = "Protecting data on SSDs";
 "Kontroler SSD przenosi dane między komórkami (wear-leveling) i ma ukrytą rezerwę, do której system nie ma dostępu. Dlatego nadpisanie wolnego miejsca zmniejsza ryzyko odzyskania danych, ale go nie eliminuje. Skuteczniejsze są metody kryptograficzne:" = "An SSD controller moves data between cells (wear-leveling) and keeps a hidden reserve the OS cannot access. Overwriting free space therefore lowers the risk of recovery but does not eliminate it. Cryptographic methods work better:";

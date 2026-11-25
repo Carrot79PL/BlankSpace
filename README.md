@@ -34,9 +34,9 @@
 
 ## Install · Instalacja
 
-Requires macOS 26 or newer, Apple Silicon. Download `BlankSpace-1.0.dmg` from [Releases](../../releases/latest) and drag the app to Applications. The app is signed ad hoc, not notarized: on first launch right-click → **Open** → **Open**.
+Requires macOS 26 or newer, Apple Silicon. Download `BlankSpace-1.0.1.dmg` from [Releases](../../releases/latest) and drag the app to Applications. The app is signed ad hoc, not notarized: on first launch right-click → **Open** → **Open**.
 
-Wymaga macOS 26 lub nowszego, Apple Silicon. Pobierz `BlankSpace-1.0.dmg` z [Releases](../../releases/latest) i przeciągnij aplikację do Aplikacji. Aplikacja ma podpis ad hoc, bez notaryzacji: przy pierwszym uruchomieniu kliknij prawym → **Otwórz** → **Otwórz**.
+Wymaga macOS 26 lub nowszego, Apple Silicon. Pobierz `BlankSpace-1.0.1.dmg` z [Releases](../../releases/latest) i przeciągnij aplikację do Aplikacji. Aplikacja ma podpis ad hoc, bez notaryzacji: przy pierwszym uruchomieniu kliknij prawym → **Otwórz** → **Otwórz**.
 
 ## Build · Budowanie
 

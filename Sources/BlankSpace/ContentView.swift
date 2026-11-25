@@ -49,6 +49,7 @@ extension View {
         self.padding(14)
             .glassEffect(selected ? .regular.tint(tint.opacity(0.4)).interactive() : .regular,
                          in: RoundedRectangle(cornerRadius: radius, style: .continuous))
+            .contentShape(RoundedRectangle(cornerRadius: radius, style: .continuous))
     }
 }
 
@@ -413,7 +414,7 @@ struct AboutView: View {
         VStack(spacing: 12) {
             Image(systemName: "sparkles.rectangle.stack.fill").font(.system(size: 48)).foregroundStyle(.tint)
             Text("BlankSpace").font(.system(size: 26, weight: .bold, design: .rounded))
-            Text("Wersja 1.0 · Swift + Metal").foregroundStyle(.secondary)
+            Text("Wersja 1.0.1 · Swift + Metal").foregroundStyle(.secondary)
             Text("Nadpisuje wolne miejsce i niszczy pliki bez możliwości odzyskania. Bez dostępu do sieci. Na SSD i APFS pełną ochronę daje dopiero FileVault.")
                 .multilineTextAlignment(.center).font(.callout).frame(maxWidth: 380)
             if let img = Bundle.main.image(forResource: "podpis_logo") {
